@@ -35,7 +35,7 @@ public class Modul5_Kel40_Java {
         System.out.println("________________________________________________________________");
         System.out.println("|Shift 3, Kelompok 40                     |");
         System.out.println("|-Muhammad Sunan Alit     - 21120117130080|");
-        System.out.println("|-Muhammad Hanif Atthariq - 21120117140028|");
+        System.out.println("|-Muhammad Hanif Atthariq Ganteng - 21120117140028|");
         System.out.println("|_________________________________________|");
                 
         System.out.println("Pilih kategori komik yang anda ingin pinjam:");
